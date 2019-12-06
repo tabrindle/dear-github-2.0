@@ -108,6 +108,7 @@ Signed,
 - Joe Bowser, @infil00p (Software Engineer)
 - Kayla Brackson, @colorincode (Color in Code / Developer)
 - Leigh Brenecki, @excitedleigh (Director, PyCon Australia 2020/2021; Organiser, DjangoCon Australia 2018/2019; Founding Organiser, Python Adelaide)
+- Trevor Brindle, @tabrindle (envinfo)
 - James Brock, @jamesdbrock (Programmer)
 - Kylan Byrd, @AvianAnalyst (Software Developer)
 - Brian Cain, @briancain (Vagrant contributor)
@@ -139,7 +140,6 @@ Signed,
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
-- Ian Delahorne, @iandelahorne
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
@@ -263,7 +263,6 @@ Signed,
 - Alexander Lang, @langalex (Software Engineer)
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
 - Thuy Le, @1000miles (Software Engineer)
-- Cassiano Leal, @cassianoleal (DevOps / Infrastructure Engineer)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
